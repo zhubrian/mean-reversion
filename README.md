@@ -1,8 +1,12 @@
 # mean-reversion
 
-**Mean-reverting portfolio optimization: higher-order parametric models with regularization**
+Title:
 
-Abstract: In this paper, we frame the problem of finding a mean-reverting portfolio from a basket of
+Mean-reverting portfolio optimization: higher-order parametric models with regularization
+
+Abstract: 
+
+In this paper, we frame the problem of finding a mean-reverting portfolio from a basket of
 assets as maximizing the likelihood that the portfolio follows a stationary time series model. To
 this end, we develop algorithms to optimize asset weights for autoregressive models of arbitrary
 order for the portfolio value time series with unregularized, L1-regularized, and L2-regularized
