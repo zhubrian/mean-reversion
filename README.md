@@ -15,5 +15,3 @@ of model order and regularization with information criteria for model selection 
 mean reversion. The results of our numerical experiments suggest that most metrics considered
 show improvements in out-of-sample testing for models with moderate complexity and moderate
 regularization, and that L1 regularization promotes sparse mean-reverting portfolios.
-
-Code to be uploaded shortly.
