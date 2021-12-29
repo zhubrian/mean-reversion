@@ -1,5 +1,9 @@
 # mean-reversion
 
+**Context:**
+
+Senior Project (S&DS 491) for the B.S. in Statistics and Data Science at Yale University
+
 **Title:**
 
 Mean-reverting portfolio optimization: higher-order parametric models with regularization
@@ -18,4 +22,4 @@ regularization, and that L1 regularization promotes sparse mean-reverting portfo
 
 **Paper:**
 
-See https://github.com/zhubrian/mean-reversion/blob/main/stat491-paper.pdf.
+See https://github.com/zhubrian/mean-reversion/blob/main/stat491-paper.pdf
