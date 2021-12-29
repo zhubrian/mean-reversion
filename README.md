@@ -2,7 +2,7 @@
 
 **Context:**
 
-Senior Project (S&DS 491) for the B.S. in Statistics and Data Science at Yale University
+Senior project for the B.S. in Statistics and Data Science at Yale University
 
 **Title:**
 
