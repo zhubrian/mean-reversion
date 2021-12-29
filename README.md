@@ -1,10 +1,10 @@
 # mean-reversion
 
-Title:
+**Title:**
 
 Mean-reverting portfolio optimization: higher-order parametric models with regularization
 
-Abstract: 
+**Abstract:**
 
 In this paper, we frame the problem of finding a mean-reverting portfolio from a basket of
 assets as maximizing the likelihood that the portfolio follows a stationary time series model. To
@@ -16,6 +16,6 @@ mean reversion. The results of our numerical experiments suggest that most metri
 show improvements in out-of-sample testing for models with moderate complexity and moderate
 regularization, and that L1 regularization promotes sparse mean-reverting portfolios.
 
-Paper: 
+**Paper:**
 
-See https://github.com/zhubrian/mean-reversion/blob/main/mean-reversion-report.pdf.
+See https://github.com/zhubrian/mean-reversion/blob/main/stat491-paper.pdf.
