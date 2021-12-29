@@ -23,3 +23,5 @@ regularization, and that L1 regularization promotes sparse mean-reverting portfo
 **Paper:**
 
 See https://github.com/zhubrian/mean-reversion/blob/main/stat491-paper.pdf
+
+Data obtained from https://finance.yahoo.com/ and https://www.refinitiv.com/en
